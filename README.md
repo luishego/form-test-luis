@@ -4,5 +4,8 @@ LUIS HEREDIA.
 
 Installation:
 
-```yarn install
-yarn start```
+```yarn install```
+
+then 
+
+```yarn start```
